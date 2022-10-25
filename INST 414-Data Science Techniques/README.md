@@ -7,7 +7,7 @@ pip install pandas\
 pip install csv\
 pip install BeautifulSoup\
 pip install time\
-pip install random\
+pip install random
 
 ## Documentation
 
@@ -22,7 +22,7 @@ pip install numpy\
 pip install sklearn\
 pip install re\
 pip install seaborn\
-pip install matplotlib\
+pip install matplotlib
 
 ## Documentation
 
