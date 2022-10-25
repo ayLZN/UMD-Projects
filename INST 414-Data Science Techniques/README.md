@@ -3,11 +3,11 @@
 ## Libraries to import
 
 pip install requests\
-pip install pandas
-pip install csv
-pip install BeautifulSoup
-pip install time
-pip install random
+pip install pandas\
+pip install csv\
+pip install BeautifulSoup\
+pip install time\
+pip install random\
 
 ## Documentation
 
@@ -17,12 +17,12 @@ This project is a program that reads the CSV file using pandas. I first created 
 
 ## Libraries to import
 
-pip install pandas
-pip install numpy
-pip install sklearn
-pip install re
-pip install seaborn
-pip install matplotlib
+pip install pandas\
+pip install numpy\
+pip install sklearn\
+pip install re\
+pip install seaborn\
+pip install matplotlib\
 
 ## Documentation
 
