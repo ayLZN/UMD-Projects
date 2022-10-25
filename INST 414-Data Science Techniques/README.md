@@ -2,7 +2,7 @@
 
 ## Libraries to import
 
-pip install requests__ 
+pip install requests\
 pip install pandas
 pip install csv
 pip install BeautifulSoup
